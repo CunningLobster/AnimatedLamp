@@ -1,0 +1,5 @@
+Lenth: 10s
+FPS: 30
+Number of cameras: 1
+Number of chars: 1
+Number of props: 1-2
